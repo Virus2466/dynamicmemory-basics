@@ -4,7 +4,7 @@ int main()
 {
     int numberOfStudents = 0;
 
-    std::cout << "How many students in our clas ? : ";
+    std::cout << "How many students in our class ? : ";
     std::cin >> numberOfStudents;
 
     // new keyword is for allocating resources at runtime 
